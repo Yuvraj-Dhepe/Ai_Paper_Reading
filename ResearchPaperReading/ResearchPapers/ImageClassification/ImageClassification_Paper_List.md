@@ -1,0 +1,12 @@
+1) [AlexNet](obsidian://open?vault=Obs_info&file=ResearchPaperReading%2FResearchPapers%2FImageClassification%2FNovelBreakThroughs%2F01_AlexNet_ResearchPaper_2012.pdf) (2012)
+2) VGGNet (2014)
+3) GoogLeNet (2014)
+4) BatchNormalization (2015)
+5) ResNet (2015)
+6) DenseNet (2016)
+7) Bag of Tricks (2018)
+8) Xception (2016)
+9) MobileNet (2017)
+10) NASNet (2017)
+11) EfficientNet (2019)
+

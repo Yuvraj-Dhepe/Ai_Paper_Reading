@@ -1,8 +1,20 @@
 ## Notes
 - First Read Abstract, Introduction and Conclusion.
+	- Questions to ask:
+		- Is it clear what this paper is about, if yes then what?
 - Then check the Figures and Tables
+	- Questions to ask:
+		- In a very brief glance, what do these bits convey?
 - Get to know what the paper is trying to deal with in a brief
+	- Questions to ask:
+		- Write about what methods they are using in the paper?
+		- How these methods compare to the other research in the domain?
+		- What is better about their method?
 - Then go through the whole paper
+	- Questions to ask:
+		- What is the summary of paper?
+		- What of the research paper can be implemented in the real world application?
+		- Any implementations of your own you would like to experiment with?
 ## Colour Codes
 - Green: Learnings from the paper, that can be applied in application
 - Blue: Wise and Insightful things
